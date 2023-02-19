@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.AssemblyInfo.cs
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MGQS\BuildApp\bin\Debug\net6.0\BuildApp.exe
+C:\Users\user\Desktop\MGQS\BuildApp\bin\Debug\net6.0\BuildApp.deps.json
+C:\Users\user\Desktop\MGQS\BuildApp\bin\Debug\net6.0\BuildApp.runtimeconfig.json
+C:\Users\user\Desktop\MGQS\BuildApp\bin\Debug\net6.0\BuildApp.dll
+C:\Users\user\Desktop\MGQS\BuildApp\bin\Debug\net6.0\BuildApp.pdb
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.dll
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\refint\BuildApp.dll
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.pdb
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\BuildApp.genruntimeconfig.cache
+C:\Users\user\Desktop\MGQS\BuildApp\obj\Debug\net6.0\ref\BuildApp.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZX1bB2398k7G1OP1f+irGeJCiuV1Ln5AYCJBbyGUJL5jFQLfgu4jrbjO7RZFgUuvA1lz/L7J8/A4Pwp+/eyUBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\desktop\\CalculatorApp\\CalculatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\mysqlconnector\\2.2.2\\mysqlconnector.2.2.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

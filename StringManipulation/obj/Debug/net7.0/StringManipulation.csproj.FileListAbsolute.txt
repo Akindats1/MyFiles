@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\MGQS\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MGQS\StringManipulation\obj\Debug\net7.0\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MGQS\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MGQS\StringManipulation\obj\Debug\net7.0\StringManipulation.AssemblyInfo.cs
+C:\Users\user\Desktop\MGQS\StringManipulation\obj\Debug\net7.0\StringManipulation.csproj.CoreCompileInputs.cache

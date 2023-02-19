@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.exe
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.deps.json
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.runtimeconfig.json
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.dll
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\ref\LessonApp.dll
+C:\Users\user\Desktop\LessonApp\bin\Debug\net5.0\LessonApp.pdb
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.AssemblyInfo.cs
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.dll
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\ref\LessonApp.dll
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.pdb
+C:\Users\user\Desktop\LessonApp\obj\Debug\net5.0\LessonApp.genruntimeconfig.cache

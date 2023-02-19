@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.AssemblyInfo.cs
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.exe
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.deps.json
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.runtimeconfig.json
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.dll
+C:\Users\user\Desktop\SolveApp\bin\Debug\net5.0\SolveApp.pdb
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.dll
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\ref\SolveApp.dll
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.pdb
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\SolveApp.genruntimeconfig.cache
+C:\Users\user\Desktop\SolveApp\obj\Debug\net5.0\refint\SolveApp.dll

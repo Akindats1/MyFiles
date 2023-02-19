@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.AssemblyInfo.cs
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.exe
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.deps.json
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.runtimeconfig.json
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.runtimeconfig.dev.json
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.dll
+C:\Users\user\Desktop\DicesGame\bin\Debug\net5.0\DicesGame.pdb
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.dll
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\ref\DicesGame.dll
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.pdb
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\DicesGame.genruntimeconfig.cache
+C:\Users\user\Desktop\DicesGame\obj\Debug\net5.0\refint\DicesGame.dll

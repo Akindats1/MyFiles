@@ -1,0 +1,6 @@
+{
+    "omnisharp.waitForDebugger": true,
+    "razor.devmode": true,
+    "razor.languageServer.debug": true,
+    "razor.disabled": true
+}
